@@ -55,7 +55,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 
 ```
 Your answer...
-```
+
+For type 1, it will overrite. Only the latest address is kept. 
+For type 2, there will be start_date and end_date column to keep track the history of address. 
 
 ***
 
